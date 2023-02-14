@@ -4,6 +4,8 @@ This is an exercise developed for Module 13 of MIT xPro Full Stack Bootcamp
 
 This project is a simple exercise in creating a todo list using React, so obviously, I used it to create a Foodie To Eat List
 
+Demo: https://smoltypo.github.io/List-React/
+
 ## Getting Started
 
 Clone this repository using `git clone` and then navigate to the project folder.
