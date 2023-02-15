@@ -32,6 +32,22 @@ function App(){
       text: 'earl grey',
       isCompleted: false,
     },  
+        {
+      text: 'beet sauerkraut',
+      isCompleted: false,
+    },
+        {
+      text: 'frangipane',
+      isCompleted: false,
+    },
+        {
+      text: 'pierogi and pierogi adjacent dumplings',
+      isCompleted: false,
+    },
+        {
+      text: 'warm milk with honey',
+      isCompleted: false,
+    },
   ]);
 
   const addTodo = text => {
