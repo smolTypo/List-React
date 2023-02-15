@@ -2,7 +2,7 @@
 
 This is an exercise developed for Module 13 of MIT xPro Full Stack Bootcamp
 
-This project is a simple exercise in using the fundamentals of React components and state management to create a functional todo list. (As a foodie, naturally, I made it into a "to eat" list. 🥑)
+This project is a simple exercise in using the fundamentals of React components and state management to create a functional todo list. (As a foodie, naturally, I decided to switch it up and instead build a “to eat” list - a list of food items I love 🥑)
 
 Demo: https://smoltypo.github.io/List-React/
 
